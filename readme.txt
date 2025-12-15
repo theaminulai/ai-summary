@@ -1,18 +1,18 @@
-=== AI Summarize Button ===
+=== AI Summarizer Button ===
 Contributors:      theaminuldev
-Tags:              button, ai, summarize, gutenberg, ai-summarize-button
+Tags:              button, ai, summarize, summary, ai-summarizer-button
 Requires at least: 6.1
 Tested up to:      6.8
 Requires PHP:      7.4
-Stable tag:        0.1.0
-License:           GPL-3.0-or-later
-License URI:       https://www.gnu.org/licenses/gpl-3.0.html
+Stable tag:        0.2.0
+License:           GPL-2.0-or-later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Add AI-powered summarize buttons to your WordPress site with customizable layouts and styling options.
+Add AI-powered summarizer buttons to your WordPress site with customizable layouts and styling options.
 
 == Description ==
 
-AI Summarize Button is a powerful WordPress block that allows you to create customizable button groups for your content. Built following WordPress Gutenberg standards, this block provides a flexible container for organizing multiple buttons with various layout options.
+AI Summarizer Button is a powerful WordPress block that allows you to create customizable button groups for your content. Built following WordPress Gutenberg standards, this block provides a flexible container for organizing multiple buttons with various layout options.
 
 **Key Features:**
 
@@ -38,23 +38,23 @@ AI Summarize Button is a powerful WordPress block that allows you to create cust
 **From WordPress Dashboard:**
 
 1. Navigate to Plugins > Add New
-2. Search for "AI Summarize Button"
+2. Search for "AI Summarizer Button"
 3. Click "Install Now" and then "Activate"
 4. The block will be available in the block editor under the Design category
 
 **Manual Installation:**
 
 1. Download the plugin zip file
-2. Upload the plugin files to the `/wp-content/plugins/ai-summarize-button` directory
+2. Upload the plugin files to the `/wp-content/plugins/ai-summarizer-button` directory
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Start using the AI Summarize Button block in your posts and pages
+4. Start using the AI Summarizer Button block in your posts and pages
 
 
 == Frequently Asked Questions ==
 
 = How do I add this block to my page? =
 
-In the block editor, click the "+" button to add a new block, search for "AI Summarize Button" or find it under the Design category. The block will be inserted with a default button that you can customize.
+In the block editor, click the "+" button to add a new block, search for "AI Summarizer Button" or find it under the Design category. The block will be inserted with a default button that you can customize.
 
 = Can I customize the button styles? =
 
@@ -62,7 +62,7 @@ Yes! The block supports all WordPress core button styling options including colo
 
 = How do I create vertical button layouts? =
 
-Select the AI Summarize Button block and use the layout options in the block settings sidebar to change the orientation from horizontal to vertical.
+Select the AI Summarizer Button block and use the layout options in the block settings sidebar to change the orientation from horizontal to vertical.
 
 = Does it work with any WordPress theme? =
 
@@ -74,13 +74,20 @@ Yes, the block is designed to work as a container for core/button blocks, ensuri
 
 == Screenshots ==
 
-1. AI Summarize Button block in the WordPress editor
+1. AI Summarizer Button block in the WordPress editor
 2. Button layout options and styling controls
 3. Horizontal button layout example
 4. Vertical button layout example
 5. Customized button group with gradients and spacing
 
 == Changelog ==
+
+### 0.2.0 - 2025-01-09
+#### Changed
+
+* Renamed plugin to AI Summarizer Button for clarity and WordPress.org compliance
+* Updated text domain to ai-summarizer-button
+* Improved documentation and descriptions
 
 ### 0.1.0 - 2024-06-15
 #### Added
@@ -94,7 +101,7 @@ Yes, the block is designed to work as a container for core/button blocks, ensuri
 
 == Usage ==
 
-1. Add the AI Summarize Button block to your page or post
+1. Add the AI Summarizer Button block to your page or post
 2. Click the "+" button inside the block to add individual buttons
 3. Customize each button's text, link, and styling
 4. Use the block toolbar to adjust layout (horizontal/vertical)

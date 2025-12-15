@@ -1,9 +1,9 @@
 {
-	"name": "ai-summarize-button",
-	"version": "0.1.0",
-	"description": "Add AI-powered summarize buttons to your WordPress site with customizable layouts and styling options.",
-	"author": "Your Name",
-	"license": "GPL-3.0-or-later",
+	"name": "ai-summarizer-button",
+	"version": "0.2.0",
+	"description": "Add AI-powered summarizer buttons to your WordPress site with customizable layouts and styling options.",
+	"author": "theaminul",
+	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
 	"scripts": {
 		"build": "wp-scripts build --blocks-manifest",

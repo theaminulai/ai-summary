@@ -1,10 +1,10 @@
-# AI Summarize Button
+# AI Summarizer Button
 
 A WordPress block plugin that adds customizable button groups to your site. Built following WordPress Gutenberg standards for seamless integration.
 
 ## Description
 
-AI Summarize Button is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
+AI Summarizer Button is a powerful WordPress block that allows you to create flexible, customizable button groups for your content. Whether you need horizontal navigation buttons, vertical call-to-action stacks, or sophisticated button layouts with custom styling, this block has you covered.
 
 ## Features
 
@@ -93,16 +93,13 @@ npm run plugin-zip
 ```
 ai-summarize-button/
 ├── src/
-│   └── ai-summarize-button/
-│       ├── block.json          # Block metadata
-│       ├── edit.js             # Editor component
-│       ├── save.js             # Save component
-│       ├── index.js            # Block registration
-│       ├── deprecated.js       # Deprecated versions
-│       ├── transforms.js       # Block transformations
-│       ├── editor.scss         # Editor styles
-│       ├── style.scss          # Frontend styles
-│       └── view.js             # Frontend JavaScript
+│   ├── admin/                  # Admin settings
+│   ├── blocks/                 # Block source files
+│   │   └── summarize-button/   # Summarize Button block
+│   │       ├── index.js        # Block registration and edit/save
+│   │       ├── block.json      # Block metadata
+│   │       └── styles/         # Block-specific styles
+│   └── styles/                 # Global styles
 ├── build/                      # Compiled assets
 ├── ai-summarize-button.php    # Main plugin file
 ├── readme.txt                  # WordPress.org readme
