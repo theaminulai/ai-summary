@@ -12,10 +12,6 @@ AI-powered summarizing tool with 6 models (ChatGPT, Claude, Gemini, Grok). Gener
 
 == Description ==
 
-**Too Long; Didn't Read (TL;DR)?** The most powerful AI summarization plugin for WordPress! This free summarizing tool generates instant TL;DR summaries using 6 AI models: ChatGPT, Claude, Gemini, Grok, Perplexity, and Google AI. Add customizable "Summarize" and "Get TL;DR" buttons that can be placed anywhere with automatic insertion capabilities.
-
-**Perfect for:** Bloggers, content creators, news sites, students, researchers, educators, and anyone who wants to make long-form content more accessible with automatic text summarization.
-
 = What is TL;DR and Why It Matters =
 
 **TL;DR** (or TLDR, tl;dr) stands for "Too Long; Didn't Read" - a popular internet acronym that originated in online forums and Usenet newsgroups in the early 2000s. Added to the Oxford English Dictionary in 2013, it serves two purposes:
@@ -23,7 +19,7 @@ AI-powered summarizing tool with 6 models (ChatGPT, Claude, Gemini, Grok). Gener
 1. **As a response** - Acknowledging that content is too lengthy to read completely
 2. **As a label** - Introducing a concise summary of the main points
 
-In today's fast-paced digital world, readers scan before committing time to full articles. **Perfect for long-form content, research articles, blog posts, and documentation, this plugin helps readers quickly identify if your content is worth their time.**
+In today's fast-paced digital world, readers scan before committing time to full articles. **Perfect for long-form content, research articles, blog posts, and documentation, adding TL;DR summaries helps readers quickly identify if your content is worth their time.**
 
 **Why TL;DR Buttons Improve Your Website:**
 
@@ -33,6 +29,12 @@ In today's fast-paced digital world, readers scan before committing time to full
 * **Improve Accessibility** - Make lengthy content more navigable and user-friendly
 * **Increase Engagement** - Summaries encourage readers to explore full content
 * **Boost SEO** - Better user metrics (lower bounce, higher time-on-page) signal quality to search engines
+
+= Introducing AI Summarizer =
+
+**Too Long; Didn't Read (TL;DR)?** The most powerful AI summarization plugin for WordPress! This free summarizing tool generates instant TL;DR summaries using 6 AI models: ChatGPT, Claude, Gemini, Grok, Perplexity, and Google AI. Add customizable "Summarize" and "Get TL;DR" buttons that can be placed anywhere with automatic insertion capabilities.
+
+**Perfect for:** Bloggers, content creators, news sites, students, researchers, educators, and anyone who wants to make long-form content more accessible with automatic text summarization.
 
 = What is AI Summarizer? =
 
