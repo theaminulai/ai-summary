@@ -14,7 +14,7 @@ const transforms = {
 			transform: (buttons) =>
 				// Creates the summarizer-button block.
 				createBlock(
-					'i-explain/summarize-button',
+					'ai-explain/summarize-button',
 					{},
 					// Loop the selected buttons.
 					buttons.map((attributes) =>
@@ -30,7 +30,7 @@ const transforms = {
 			transform: (buttons) =>
 				// Creates the buttons block.
 				createBlock(
-					'i-explain/summarize-button',
+					'ai-explain/summarize-button',
 					{},
 					// Loop the selected buttons.
 					buttons.map((attributes) => {

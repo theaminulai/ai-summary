@@ -40,13 +40,13 @@ registerBlockType( name, {
 			{
 				name: 'core/button',
 				attributes: {
-					text: __( 'Summarize with AI', 'i-explain' ),
+					text: __( 'Summarize with AI', 'ai-explain' ),
 				},
 			},
 			{
 				name: 'core/button',
 				attributes: {
-					text: __( 'Get Summary', 'i-explain' ),
+					text: __( 'Get Summary', 'ai-explain' ),
 				},
 			},
 		],
