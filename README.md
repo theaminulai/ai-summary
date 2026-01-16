@@ -1,4 +1,4 @@
-# keyNote - AI-Powered TL;DR & Content Summary Buttons
+# KeyNote - AI-Powered TL;DR & Content Summary Buttons
 
 [![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/keynote/releases)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.1%2B-brightgreen.svg)](https://wordpress.org/)
@@ -9,13 +9,13 @@
 
 A powerful Gutenberg block plugin that enables you to add professional "Summarize," "TL;DR," and "Get Summary" buttons to your WordPress content. Perfect for long-form articles, research papers, documentation, and content-heavy websites.
 
-![keyNote Demo](https://via.placeholder.com/800x400.png?text=keyNote+Demo)
+![KeyNote Demo](https://via.placeholder.com/800x400.png?text=KeyNote+Demo)
 
 ---
 
-## 🎯 What is keyNote?
+## 🎯 What is KeyNote?
 
-keyNote provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
+KeyNote provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
 
 ### What is TL;DR?
 
@@ -73,7 +73,7 @@ keyNote provides customizable button blocks designed specifically for content su
 ### From WordPress.org (Recommended)
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "keyNote"
+2. Search for "KeyNote"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
