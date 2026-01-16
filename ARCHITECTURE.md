@@ -108,9 +108,9 @@ keynote/
 
 ### Project Resources
 
-- [PageFlash GitHub Repository](https://github.com/theaminuli/keynote)
+- [KeyNote GitHub Repository](https://github.com/theaminuli/keynote)
 - [WordPress.org Plugin Page](https://wordpress.org/plugins/keynote/)
-- [Issue Tracker](https://github.com/theaminuli/pageflash/issues)
+- [Issue Tracker](https://github.com/theaminuli/keynote/issues)
 - [Support Forum](https://wordpress.org/support/plugin/keynote/)
 
 ### Related Documentation
