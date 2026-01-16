@@ -1,6 +1,6 @@
-# AI Explain - AI-Powered TL;DR & Content Summary Buttons
+# keyNote - AI-Powered TL;DR & Content Summary Buttons
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/ai-explain/releases)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/keynote/releases)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.1%2B-brightgreen.svg)](https://wordpress.org/)
 [![License](https://img.shields.io/badge/license-GPL--2.0--or--later-orange.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-7.4%2B-purple.svg)](https://www.php.net/)
@@ -9,13 +9,13 @@
 
 A powerful Gutenberg block plugin that enables you to add professional "Summarize," "TL;DR," and "Get Summary" buttons to your WordPress content. Perfect for long-form articles, research papers, documentation, and content-heavy websites.
 
-![AI Explain Demo](https://via.placeholder.com/800x400.png?text=AI+Explain+Demo)
+![keyNote Demo](https://via.placeholder.com/800x400.png?text=keyNote+Demo)
 
 ---
 
-## 🎯 What is AI Explain?
+## 🎯 What is keyNote?
 
-AI Explain provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
+keyNote provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
 
 ### What is TL;DR?
 
@@ -73,24 +73,24 @@ AI Explain provides customizable button blocks designed specifically for content
 ### From WordPress.org (Recommended)
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "AI Explain"
+2. Search for "keyNote"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-explain/releases)
-2. Upload the `ai-explain` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/keynote/releases)
+2. Upload the `keynote` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-explain.git
+git clone https://github.com/theaminuli/keynote.git
 
 # Navigate to the plugin directory
-cd ai-explain
+cd keynote
 
 # Install dependencies
 npm install
@@ -241,7 +241,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-explain/
+keynote/
 ├── src/                        # Source files (uncompiled)
 │   ├── admin/                  # Admin settings (placeholder)
 │   └── blocks/                 # Block source files
@@ -258,7 +258,7 @@ ai-explain/
 ├── build/                      # Compiled assets (generated)
 │   └── blocks/
 │       └── summarize-button/
-├── ai-explain.php              # Main plugin file
+├── keynote.php                 # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 ├── README.md                   # This file
 ├── package.json                # Node dependencies
@@ -329,8 +329,8 @@ Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
 
-1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminuli/ai-explain/issues)
-2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminuli/ai-explain/issues)
+1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminuli/keynote/issues)
+2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminuli/keynote/issues)
 3. **Submit Pull Requests** - Fix bugs or add features
 4. **Improve Documentation** - Help make docs clearer
 5. **Translations** - Translate the plugin to your language
@@ -363,15 +363,15 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ### Get Help
 
-- **Documentation**: [Full documentation](https://github.com/theaminuli/ai-explain/wiki)
-- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/ai-explain/)
-- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminuli/ai-explain/issues)
+- **Documentation**: [Full documentation](https://github.com/theaminuli/keynote/wiki)
+- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/keynote/)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminuli/keynote/issues)
 - **Email**: support@theaminul.com
 
 ### Stay Updated
 
-- **GitHub**: [Star the repo](https://github.com/theaminuli/ai-explain) for updates
-- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/ai-explain/)
+- **GitHub**: [Star the repo](https://github.com/theaminuli/keynote) for updates
+- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/keynote/)
 - **Blog**: [Read development updates](https://theaminul.com/blog)
 
 ## 🙏 Credits
@@ -390,10 +390,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## 📊 Stats & Badges
 
-![GitHub stars](https://img.shields.io/github/stars/theaminuli/ai-explain?style=social)
-![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/ai-explain?style=flat-square)
-![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/ai-explain?style=flat-square)
-![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/ai-explain?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/theaminuli/keynote?style=social)
+![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/keynote?style=flat-square)
+![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/keynote?style=flat-square)
+![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/keynote?style=flat-square)
 
 ## 📝 Changelog
 
@@ -413,10 +413,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 <div align="center">
 
-**[⬆ Back to Top](#ai-explain---ai-powered-tldr--content-summary-buttons)**
+**[⬆ Back to Top](#keynote---ai-powered-tldr--content-summary-buttons)**
 
 Made with ❤️ for the WordPress Community
 
-[Website](https://theaminul.com) • [GitHub](https://github.com/theaminuli) • [WordPress.org](https://wordpress.org/plugins/ai-explain/)
+[Website](https://theaminul.com) • [GitHub](https://github.com/theaminuli) • [WordPress.org](https://wordpress.org/plugins/keynote/)
 
 </div>
