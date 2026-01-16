@@ -1,8 +1,8 @@
-=== AI Explain - AI-Powered TL;DR & Content Summary Buttons ===
+=== AI Explain ===
 Contributors:      theaminuldev, iqbal1hossain
 Tags:              summarizer, tldr, ai, text-summary, summarize, content, article-summary, reading
 Requires at least: 6.1
-Tested up to:      6.8
+Tested up to:      6.9
 Requires PHP:      7.4
 Stable tag:        0.4.0
 License:           GPL-2.0-or-later
@@ -41,7 +41,7 @@ AI Explain is a powerful Gutenberg block plugin that enables you to create profe
 ✅ **Chrome AI Ready** - Prepared for integration with Chrome's built-in Summarizer API (Gemini Nano)
 ✅ **Developer Friendly** - Clean code following WordPress coding standards
 
-= Perfect Use Cases =
+= Use Cases =
 
 📝 **Long-Form Articles** - Add "Get Summary" buttons to lengthy blog posts
 📖 **Research Papers** - Provide "TL;DR" access to key findings  
@@ -89,7 +89,7 @@ TL;DR stands for "Too Long; Didn't Read." It's an internet acronym used to provi
 
 = How do I add summarize buttons to my content? =
 
-Simply edit any post or page in the Gutenberg editor, click the "+" button, and search for "Summarize Button" or find it under the Design category. The block will be inserted with default buttons that you can customize.
+Edit any post or page in the Gutenberg editor, click the "+" button, and search for "Summarize Button" or find it under the Design category. The block will be inserted with default buttons that you can customize.
 
 = Does this plugin actually summarize content with AI? =
 

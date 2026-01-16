@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       AI Explain - AI-Powered TL;DR & Content Summary Buttons
+ * Plugin Name:       AI Explain
  * Description:       Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
  * Version:           0.4.0
  * Requires at least: 6.1
