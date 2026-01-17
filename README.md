@@ -1,6 +1,6 @@
-# KeyNote - AI-Powered TL;DR & Content Summary Buttons
+# Notable Summary - AI-Powered TL;DR & Content Summary Buttons
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/keynote/releases)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/notable-summary/releases)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.1%2B-brightgreen.svg)](https://wordpress.org/)
 [![License](https://img.shields.io/badge/license-GPL--2.0--or--later-orange.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-7.4%2B-purple.svg)](https://www.php.net/)
@@ -9,13 +9,13 @@
 
 A powerful Gutenberg block plugin that enables you to add professional "Summarize," "TL;DR," and "Get Summary" buttons to your WordPress content. Perfect for long-form articles, research papers, documentation, and content-heavy websites.
 
-![KeyNote Demo](https://via.placeholder.com/800x400.png?text=KeyNote+Demo)
+![Notable Summary Demo](https://via.placeholder.com/800x400.png?text=Notable+Summary+Demo)
 
 ---
 
-## 🎯 What is KeyNote?
+## 🎯 What is Notable Summary?
 
-KeyNote provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
+Notable Summary provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
 
 ### What is TL;DR?
 
@@ -73,24 +73,24 @@ KeyNote provides customizable button blocks designed specifically for content su
 ### From WordPress.org (Recommended)
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "KeyNote"
+2. Search for "Notable Summary"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/keynote/releases)
-2. Upload the `keynote` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminuli/notable-summary/releases)
+2. Upload the `notable-summary` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/keynote.git
+git clone https://github.com/theaminuli/notable-summary.git
 
 # Navigate to the plugin directory
-cd keynote
+cd notable-summary
 
 # Install dependencies
 npm install
@@ -241,7 +241,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-keynote/
+notable-summary/
 ├── src/                        # Source files (uncompiled)
 │   ├── admin/                  # Admin settings (placeholder)
 │   └── blocks/                 # Block source files
@@ -258,7 +258,7 @@ keynote/
 ├── build/                      # Compiled assets (generated)
 │   └── blocks/
 │       └── summarize-button/
-├── keynote.php                 # Main plugin file
+├── notable-summary.php         # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 ├── README.md                   # This file
 ├── package.json                # Node dependencies
@@ -329,8 +329,8 @@ Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
 
-1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminuli/keynote/issues)
-2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminuli/keynote/issues)
+1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminuli/notable-summary/issues)
+2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminuli/notable-summary/issues)
 3. **Submit Pull Requests** - Fix bugs or add features
 4. **Improve Documentation** - Help make docs clearer
 5. **Translations** - Translate the plugin to your language
@@ -363,15 +363,15 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ### Get Help
 
-- **Documentation**: [Full documentation](https://github.com/theaminuli/keynote/wiki)
-- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/keynote/)
-- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminuli/keynote/issues)
+- **Documentation**: [Full documentation](https://github.com/theaminuli/notable-summary/wiki)
+- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/notable-summary/)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminuli/notable-summary/issues)
 - **Email**: support@theaminul.com
 
 ### Stay Updated
 
-- **GitHub**: [Star the repo](https://github.com/theaminuli/keynote) for updates
-- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/keynote/)
+- **GitHub**: [Star the repo](https://github.com/theaminuli/notable-summary) for updates
+- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/notable-summary/)
 - **Blog**: [Read development updates](https://theaminul.com/blog)
 
 ## 🙏 Credits
@@ -390,10 +390,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## 📊 Stats & Badges
 
-![GitHub stars](https://img.shields.io/github/stars/theaminuli/keynote?style=social)
-![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/keynote?style=flat-square)
-![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/keynote?style=flat-square)
-![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/keynote?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/theaminuli/notable-summary?style=social)
+![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/notable-summary?style=flat-square)
+![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/notable-summary?style=flat-square)
+![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/notable-summary?style=flat-square)
 
 ## 📝 Changelog
 
@@ -413,10 +413,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 <div align="center">
 
-**[⬆ Back to Top](#keynote---ai-powered-tldr--content-summary-buttons)**
+**[⬆ Back to Top](#notable-summary---ai-powered-tldr--content-summary-buttons)**
 
 Made with ❤️ for the WordPress Community
 
-[Website](https://theaminul.com) • [GitHub](https://github.com/theaminuli) • [WordPress.org](https://wordpress.org/plugins/keynote/)
+[Website](https://theaminul.com) • [GitHub](https://github.com/theaminuli) • [WordPress.org](https://wordpress.org/plugins/notable-summary/)
 
 </div>

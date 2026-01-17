@@ -18,8 +18,8 @@ AI Summarizer is a WordPress Gutenberg block plugin that provides AI-powered sum
 ### Directory Layout
 
 ```
-keynote/
-├── keynote.php           # Main plugin file (entry point)
+notable-summary/
+├── notable-summary.php           # Main plugin file (entry point)
 ├── package.json                # NPM dependencies and scripts
 ├── webpack.config.js           # Custom webpack configuration
 ├── LICENSE                     # GPL-2.0-or-later license
@@ -48,7 +48,7 @@ keynote/
 
 | File | Purpose |
 |------|---------|
-| `keynote.php` | Plugin initialization, block registration via manifest |
+| `notable-summary.php` | Plugin initialization, block registration via manifest |
 | `block.json` | Block metadata, attributes, supports configuration |
 | `index.js` | Block type registration with React components |
 | `edit.js` | Editor UI component (what users see in Block Editor) |
@@ -108,10 +108,10 @@ keynote/
 
 ### Project Resources
 
-- [KeyNote GitHub Repository](https://github.com/theaminuli/keynote)
-- [WordPress.org Plugin Page](https://wordpress.org/plugins/keynote/)
-- [Issue Tracker](https://github.com/theaminuli/keynote/issues)
-- [Support Forum](https://wordpress.org/support/plugin/keynote/)
+- [Notable Summary GitHub Repository](https://github.com/theaminuli/notable-summary)
+- [WordPress.org Plugin Page](https://wordpress.org/plugins/notable-summary/)
+- [Issue Tracker](https://github.com/theaminuli/notable-summary/issues)
+- [Support Forum](https://wordpress.org/support/plugin/notable-summary/)
 
 ### Related Documentation
 

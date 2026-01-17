@@ -1,4 +1,4 @@
-=== KeyNote ===
+=== Notable Summary ===
 Contributors:      theaminuldev, iqbal1hossain
 Tags:              summarizer, tldr, ai, text-summary, summarize, content, article-summary, reading
 Requires at least: 6.1
@@ -12,11 +12,11 @@ Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summa
 
 == Description ==
 
-**Too Long; Didn't Read (TL;DR)?** Help your readers save time with KeyNote - the ultimate tool for adding intelligent summarization buttons to your WordPress content!
+**Too Long; Didn't Read (TL;DR)?** Help your readers save time with Notable Summary - the ultimate tool for adding intelligent summarization buttons to your WordPress content!
 
-= What is KeyNote? =
+= What is Notable Summary? =
 
-KeyNote is a powerful Gutenberg block plugin that enables you to create professional "Summarize" and "TL;DR" button groups on your posts and pages. Perfect for long-form content, research articles, blog posts, and documentation, this plugin helps readers quickly identify if your content is worth their time.
+Notable Summary is a powerful Gutenberg block plugin that enables you to create professional "Summarize" and "TL;DR" button groups on your posts and pages. Perfect for long-form content, research articles, blog posts, and documentation, this plugin helps readers quickly identify if your content is worth their time.
 
 = Why Your Site Needs Summary Buttons =
 
@@ -69,16 +69,16 @@ KeyNote is a powerful Gutenberg block plugin that enables you to create professi
 **From WordPress Dashboard:**
 
 1. Navigate to Plugins > Add New
-2. Search for "KeyNote"
+2. Search for "Notable Summary"
 3. Click "Install Now" and then "Activate"
 4. The block will be available in the block editor under the Design category
 
 **Manual Installation:**
 
 1. Download the plugin zip file
-2. Upload the plugin files to the `/wp-content/plugins/keynote` directory
+2. Upload the plugin files to the `/wp-content/plugins/notable-summary` directory
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Start using the KeyNote block in your posts and pages
+4. Start using the Notable Summary block in your posts and pages
 
 
 == Frequently Asked Questions ==
@@ -152,8 +152,8 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Fixed: Button group spacing issues on some themes
 
 = 0.2.0 - 2025-01-09 =
-* Fixed: Renamed plugin to KeyNote for clarity and WordPress.org compliance
-* Updated: Text domain changed to keynote for proper internationalization
+* Fixed: Renamed plugin to Notable Summary for clarity and WordPress.org compliance
+* Updated: Text domain changed to notable-summary for proper internationalization
 * Improved: Enhanced documentation with TL;DR explanations
 * Enhanced: Better SEO optimization for plugin directory
 
