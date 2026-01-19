@@ -152,7 +152,6 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Fixed: Button group spacing issues on some themes
 
 = 0.2.0 - 2025-01-09 =
-* Fixed: Renamed plugin to Pointly for clarity and WordPress.org compliance
 * Updated: Text domain changed to pointly for proper internationalization
 * Improved: Enhanced documentation with TL;DR explanations
 * Enhanced: Better SEO optimization for plugin directory
