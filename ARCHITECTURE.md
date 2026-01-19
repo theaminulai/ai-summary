@@ -18,8 +18,8 @@ AI Summarizer is a WordPress Gutenberg block plugin that provides AI-powered sum
 ### Directory Layout
 
 ```
-notable-summary/
-├── notable-summary.php           # Main plugin file (entry point)
+pointly/
+├── pointly.php           # Main plugin file (entry point)
 ├── package.json                # NPM dependencies and scripts
 ├── webpack.config.js           # Custom webpack configuration
 ├── LICENSE                     # GPL-2.0-or-later license
@@ -48,7 +48,7 @@ notable-summary/
 
 | File | Purpose |
 |------|---------|
-| `notable-summary.php` | Plugin initialization, block registration via manifest |
+| `pointly.php` | Plugin initialization, block registration via manifest |
 | `block.json` | Block metadata, attributes, supports configuration |
 | `index.js` | Block type registration with React components |
 | `edit.js` | Editor UI component (what users see in Block Editor) |
@@ -108,10 +108,10 @@ notable-summary/
 
 ### Project Resources
 
-- [Notable Summary GitHub Repository](https://github.com/theaminuli/notable-summary)
-- [WordPress.org Plugin Page](https://wordpress.org/plugins/notable-summary/)
-- [Issue Tracker](https://github.com/theaminuli/notable-summary/issues)
-- [Support Forum](https://wordpress.org/support/plugin/notable-summary/)
+- [Pointly GitHub Repository](https://github.com/theaminulai/pointly)
+- [WordPress.org Plugin Page](https://wordpress.org/plugins/pointly/)
+- [Issue Tracker](https://github.com/theaminulai/pointly/issues)
+- [Support Forum](https://wordpress.org/support/plugin/pointly/)
 
 ### Related Documentation
 
