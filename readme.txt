@@ -1,6 +1,6 @@
 === Pointwise Summary ===
 Contributors:      theaminuldev, iqbal1hossain
-Tags:              summarizer, tldr, ai, text-summary, summarize, content, article-summary, reading
+Tags:              tldr, ai, text-summary, summarize, article-summary, 
 Requires at least: 6.1
 Tested up to:      6.9
 Requires PHP:      7.4
