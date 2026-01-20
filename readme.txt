@@ -4,7 +4,7 @@ Tags:              tldr, ai, text-summary, summarize, article-summary,
 Requires at least: 6.1
 Tested up to:      6.9
 Requires PHP:      7.4
-Stable tag:        0.4.0
+Stable tag:        0.5.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -137,6 +137,11 @@ Yes, all button text is fully customizable and supports WordPress translation fu
 AI integration is in development. Currently, you can link buttons to summary sections on your page using anchor links (#summary), or to separate summary pages. Automatic AI summarization will be available in a future update.
 
 == Changelog ==
+
+= 0.5.0 - 2026-01-20 =
+* Fixed: readme.txt short description to improve clarity and conciseness
+* Fixed: Removed 'summarizer' and 'etc' tags from the plugin's readme.txt to streamline tag list
+* Added: Add development section with build instructions
 
 = 0.4.0 - 2025-12-21 =
 * Enhanced: Improved block performance and registration system

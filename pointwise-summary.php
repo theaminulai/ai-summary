@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Pointwise Summary
  * Description:       Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
- * Version:           0.4.0
+ * Version:           0.5.0
  * Requires at least: 6.1
  * Requires PHP:      7.4
  * License:           GPL-2.0-or-later
