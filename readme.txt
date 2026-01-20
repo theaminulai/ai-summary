@@ -166,6 +166,14 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Added: Fully responsive design for all devices
 * Added: Gutenberg Block API v3 support
 
+== Development ==
+
+Source code: https://github.com/theaminulai/pointwise-summary/
+
+**Build steps:**
+1. `npm install`
+2. `npm run build`
+
 == Support ==
 
 For support, please visit the plugin's support forum on WordPress.org or contact the author directly.
