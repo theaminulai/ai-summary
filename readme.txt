@@ -8,7 +8,7 @@ Stable tag:        0.4.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
+Create instant TL;DR summaries with AI-powered buttons. Add “Summarize” and “Get TL;DR” buttons to help readers quickly grasp content.
 
 == Description ==
 
