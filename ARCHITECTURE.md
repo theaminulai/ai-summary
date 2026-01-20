@@ -18,8 +18,8 @@ AI Summarizer is a WordPress Gutenberg block plugin that provides AI-powered sum
 ### Directory Layout
 
 ```
-pointly/
-├── pointly.php           # Main plugin file (entry point)
+pointwise-summary/
+├── pointwise-summary.php           # Main plugin file (entry point)
 ├── package.json                # NPM dependencies and scripts
 ├── webpack.config.js           # Custom webpack configuration
 ├── LICENSE                     # GPL-2.0-or-later license
@@ -48,7 +48,7 @@ pointly/
 
 | File | Purpose |
 |------|---------|
-| `pointly.php` | Plugin initialization, block registration via manifest |
+| `pointwise-summary.php` | Plugin initialization, block registration via manifest |
 | `block.json` | Block metadata, attributes, supports configuration |
 | `index.js` | Block type registration with React components |
 | `edit.js` | Editor UI component (what users see in Block Editor) |
@@ -108,10 +108,10 @@ pointly/
 
 ### Project Resources
 
-- [Pointly GitHub Repository](https://github.com/theaminulai/pointly)
-- [WordPress.org Plugin Page](https://wordpress.org/plugins/pointly/)
-- [Issue Tracker](https://github.com/theaminulai/pointly/issues)
-- [Support Forum](https://wordpress.org/support/plugin/pointly/)
+- [Pointwise Summary GitHub Repository](https://github.com/theaminulai/pointwise-summary)
+- [WordPress.org Plugin Page](https://wordpress.org/plugins/pointwise-summary/)
+- [Issue Tracker](https://github.com/theaminulai/pointwise-summary/issues)
+- [Support Forum](https://wordpress.org/support/plugin/pointwise-summary/)
 
 ### Related Documentation
 
