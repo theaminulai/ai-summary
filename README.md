@@ -1,6 +1,6 @@
-# AI Summarizer - AI-Powered TL;DR & Content Summary Buttons
+# Pointwise Summary - AI-Powered TL;DR & Content Summary Buttons
 
-[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminuli/ai-summarizer/releases)
+[![WordPress Plugin Version](https://img.shields.io/badge/version-0.4.0-blue.svg)](https://github.com/theaminulai/pointwise-summary/releases)
 [![WordPress Compatibility](https://img.shields.io/badge/wordpress-6.1%2B-brightgreen.svg)](https://wordpress.org/)
 [![License](https://img.shields.io/badge/license-GPL--2.0--or--later-orange.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-7.4%2B-purple.svg)](https://www.php.net/)
@@ -9,13 +9,13 @@
 
 A powerful Gutenberg block plugin that enables you to add professional "Summarize," "TL;DR," and "Get Summary" buttons to your WordPress content. Perfect for long-form articles, research papers, documentation, and content-heavy websites.
 
-![AI Summarizer Demo](https://via.placeholder.com/800x400.png?text=AI+Summarizer+Demo)
+![Pointwise Summary Demo](https://via.placeholder.com/800x400.png?text=Notable+Summary+Demo)
 
 ---
 
-## 🎯 What is AI Summarizer?
+## 🎯 What is Pointwise Summary?
 
-AI Summarizer provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
+Pointwise Summary provides customizable button blocks designed specifically for content summarization. Whether you're running a news site, blog, documentation portal, or educational platform, this plugin helps readers quickly identify relevant content and navigate long articles efficiently.
 
 ### What is TL;DR?
 
@@ -73,24 +73,24 @@ AI Summarizer provides customizable button blocks designed specifically for cont
 ### From WordPress.org (Recommended)
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "AI Summarizer"
+2. Search for "Pointwise Summary"
 3. Click **Install Now** and then **Activate**
 4. The block will appear in the Design category in the block editor
 
 ### Manual Installation
 
-1. Download the plugin from the [releases page](https://github.com/theaminuli/ai-summarizer/releases)
-2. Upload the `ai-summarizer` folder to `/wp-content/plugins/`
+1. Download the plugin from the [releases page](https://github.com/theaminulai/pointwise-summary/releases)
+2. Upload the `pointwise-summary` folder to `/wp-content/plugins/`
 3. Activate the plugin through the Plugins menu in WordPress
 
 ### From Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/theaminuli/ai-summarizer.git
+git clone https://github.com/theaminulai/pointwise-summary.git
 
 # Navigate to the plugin directory
-cd ai-summarizer
+cd pointwise-summary
 
 # Install dependencies
 npm install
@@ -241,7 +241,7 @@ npm run plugin-zip
 ### Project Structure
 
 ```
-ai-summarizer/
+pointwise-summary/
 ├── src/                        # Source files (uncompiled)
 │   ├── admin/                  # Admin settings (placeholder)
 │   └── blocks/                 # Block source files
@@ -258,7 +258,7 @@ ai-summarizer/
 ├── build/                      # Compiled assets (generated)
 │   └── blocks/
 │       └── summarize-button/
-├── ai-summarizer.php           # Main plugin file
+├── pointwise-summary.php                 # Main plugin file
 ├── readme.txt                  # WordPress.org readme
 ├── README.md                   # This file
 ├── package.json                # Node dependencies
@@ -329,8 +329,8 @@ Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
 
-1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminuli/ai-summarizer/issues)
-2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminuli/ai-summarizer/issues)
+1. **Report Bugs** - Found a bug? [Open an issue](https://github.com/theaminulai/pointwise-summary/issues)
+2. **Suggest Features** - Have an idea? [Submit a feature request](https://github.com/theaminulai/pointwise-summary/issues)
 3. **Submit Pull Requests** - Fix bugs or add features
 4. **Improve Documentation** - Help make docs clearer
 5. **Translations** - Translate the plugin to your language
@@ -363,15 +363,15 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ### Get Help
 
-- **Documentation**: [Full documentation](https://github.com/theaminuli/ai-summarizer/wiki)
-- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/ai-summarizer/)
-- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminuli/ai-summarizer/issues)
+- **Documentation**: [Full documentation](https://github.com/theaminulai/pointwise-summary/wiki)
+- **WordPress.org Support**: [Plugin support forum](https://wordpress.org/support/plugin/pointwise-summary/)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/theaminulai/pointwise-summary/issues)
 - **Email**: support@theaminul.com
 
 ### Stay Updated
 
-- **GitHub**: [Star the repo](https://github.com/theaminuli/ai-summarizer) for updates
-- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/ai-summarizer/)
+- **GitHub**: [Star the repo](https://github.com/theaminulai/pointwise-summary) for updates
+- **WordPress.org**: [Follow on WordPress.org](https://wordpress.org/plugins/pointwise-summary/)
 - **Blog**: [Read development updates](https://theaminul.com/blog)
 
 ## 🙏 Credits
@@ -390,10 +390,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 ## 📊 Stats & Badges
 
-![GitHub stars](https://img.shields.io/github/stars/theaminuli/ai-summarizer?style=social)
-![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/ai-summarizer?style=flat-square)
-![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/ai-summarizer?style=flat-square)
-![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/ai-summarizer?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/theaminulai/pointwise-summary?style=social)
+![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/pointwise-summary?style=flat-square)
+![WordPress Plugin Active Installations](https://img.shields.io/wordpress/plugin/installs/pointwise-summary?style=flat-square)
+![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/pointwise-summary?style=flat-square)
 
 ## 📝 Changelog
 
@@ -413,10 +413,10 @@ This plugin is licensed under the GPL-2.0-or-later license. See the [LICENSE](LI
 
 <div align="center">
 
-**[⬆ Back to Top](#ai-summarizer---tldr--content-summary-buttons)**
+**[⬆ Back to Top](#pointwise-summary---ai-powered-tldr--content-summary-buttons)**
 
 Made with ❤️ for the WordPress Community
 
-[Website](https://theaminul.com) • [GitHub](https://github.com/theaminuli) • [WordPress.org](https://wordpress.org/plugins/ai-summarizer/)
+[Website](https://theaminul.com) • [GitHub](https://github.com/theaminulai) • [WordPress.org](https://wordpress.org/plugins/pointwise-summary/)
 
 </div>

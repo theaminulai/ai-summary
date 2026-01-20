@@ -1,22 +1,22 @@
-=== AI Summarizer - AI-Powered TL;DR & Content Summary Buttons ===
+=== Pointwise Summary ===
 Contributors:      theaminuldev, iqbal1hossain
-Tags:              summarizer, tldr, ai, text-summary, summarize, content, article-summary, reading
+Tags:              tldr, ai, text-summary, summarize, article-summary, 
 Requires at least: 6.1
-Tested up to:      6.8
+Tested up to:      6.9
 Requires PHP:      7.4
-Stable tag:        0.4.0
+Stable tag:        0.5.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Create instant TL;DR summaries with AI-powered summarization buttons. Add "Summarize" and "Get TL;DR" buttons to help readers quickly grasp article content.
+Create instant TL;DR summaries with AI-powered buttons. Add “Summarize” and “Get TL;DR” buttons to help readers quickly grasp content.
 
 == Description ==
 
-**Too Long; Didn't Read (TL;DR)?** Help your readers save time with AI Summarizer - the ultimate tool for adding intelligent summarization buttons to your WordPress content!
+**Too Long; Didn't Read (TL;DR)?** Help your readers save time with Pointwise Summary - the ultimate tool for adding intelligent summarization buttons to your WordPress content!
 
-= What is AI Summarizer? =
+= What is Pointwise Summary? =
 
-AI Summarizer is a powerful Gutenberg block plugin that enables you to create professional "Summarize" and "TL;DR" button groups on your posts and pages. Perfect for long-form content, research articles, blog posts, and documentation, this plugin helps readers quickly identify if your content is worth their time.
+Pointwise Summary is a powerful Gutenberg block plugin that enables you to create professional "Summarize" and "TL;DR" button groups on your posts and pages. Perfect for long-form content, research articles, blog posts, and documentation, this plugin helps readers quickly identify if your content is worth their time.
 
 = Why Your Site Needs Summary Buttons =
 
@@ -41,7 +41,7 @@ AI Summarizer is a powerful Gutenberg block plugin that enables you to create pr
 ✅ **Chrome AI Ready** - Prepared for integration with Chrome's built-in Summarizer API (Gemini Nano)
 ✅ **Developer Friendly** - Clean code following WordPress coding standards
 
-= Perfect Use Cases =
+= Use Cases =
 
 📝 **Long-Form Articles** - Add "Get Summary" buttons to lengthy blog posts
 📖 **Research Papers** - Provide "TL;DR" access to key findings  
@@ -69,16 +69,16 @@ AI Summarizer is a powerful Gutenberg block plugin that enables you to create pr
 **From WordPress Dashboard:**
 
 1. Navigate to Plugins > Add New
-2. Search for "AI Summarizer"
+2. Search for "Pointwise Summary"
 3. Click "Install Now" and then "Activate"
 4. The block will be available in the block editor under the Design category
 
 **Manual Installation:**
 
 1. Download the plugin zip file
-2. Upload the plugin files to the `/wp-content/plugins/ai-summarizer` directory
+2. Upload the plugin files to the `/wp-content/plugins/pointwise-summary` directory
 3. Activate the plugin through the 'Plugins' screen in WordPress
-4. Start using the AI Summarizer block in your posts and pages
+4. Start using the Pointwise Summary block in your posts and pages
 
 
 == Frequently Asked Questions ==
@@ -89,7 +89,7 @@ TL;DR stands for "Too Long; Didn't Read." It's an internet acronym used to provi
 
 = How do I add summarize buttons to my content? =
 
-Simply edit any post or page in the Gutenberg editor, click the "+" button, and search for "Summarize Button" or find it under the Design category. The block will be inserted with default buttons that you can customize.
+Edit any post or page in the Gutenberg editor, click the "+" button, and search for "Summarize Button" or find it under the Design category. The block will be inserted with default buttons that you can customize.
 
 = Does this plugin actually summarize content with AI? =
 
@@ -138,6 +138,11 @@ AI integration is in development. Currently, you can link buttons to summary sec
 
 == Changelog ==
 
+= 0.5.0 - 2026-01-20 =
+* Fixed: readme.txt short description to improve clarity and conciseness
+* Fixed: Removed 'summarizer' and 'etc' tags from the plugin's readme.txt to streamline tag list
+* Added: Add development section with build instructions
+
 = 0.4.0 - 2025-12-21 =
 * Enhanced: Improved block performance and registration system
 * Enhanced: Better compatibility with WordPress 6.8
@@ -152,8 +157,7 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Fixed: Button group spacing issues on some themes
 
 = 0.2.0 - 2025-01-09 =
-* Fixed: Renamed plugin to AI Summarizer for clarity and WordPress.org compliance
-* Updated: Text domain changed to ai-summarizer for proper internationalization
+* Updated: Text domain changed to pointwise-summary for proper internationalization
 * Improved: Enhanced documentation with TL;DR explanations
 * Enhanced: Better SEO optimization for plugin directory
 
@@ -166,6 +170,14 @@ AI integration is in development. Currently, you can link buttons to summary sec
 * Added: WCAG 2.1 AA accessibility compliance
 * Added: Fully responsive design for all devices
 * Added: Gutenberg Block API v3 support
+
+== Development ==
+
+Source code: https://github.com/theaminulai/pointwise-summary/
+
+**Build steps:**
+1. `npm install`
+2. `npm run build`
 
 == Support ==
 
